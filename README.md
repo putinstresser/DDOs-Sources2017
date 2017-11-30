@@ -1,5 +1,6 @@
 # DDOs-Sources2017 
 DDos script with autoinstall and compile !
+Install #update and #gcc (apt-get install gcc or yum install gcc)
 
 ## Run install
 
