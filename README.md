@@ -2,7 +2,7 @@
 DDos script with autoinstall and compile !
 
 ## Run install
-##Ubuntu & Debian
+#Ubuntu & Debian
 
 apt-get update
 apt-get install gcc
